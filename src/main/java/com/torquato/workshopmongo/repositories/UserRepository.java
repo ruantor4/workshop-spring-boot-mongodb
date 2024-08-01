@@ -8,10 +8,4 @@ import com.torquato.workshopmongo.models.User;
 @Repository
 public interface UserRepository extends MongoRepository<User, String> {
 
-
-
-	
-
-	
-
 }
